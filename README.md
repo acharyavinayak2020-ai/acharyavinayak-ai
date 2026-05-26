@@ -1,9 +1,9 @@
 # acharyavinayak-ai
-# Hi, I'm Ram 👋
+# Hi, I'm Ram 
 
-🚀 Aspiring Data Engineer
+ Aspiring Data Engineer
 
-## 💡 Skills
+## Skills
 
 * Python
 * SQL
@@ -12,7 +12,7 @@
 * Power BI & Excel
 * AI Agents
 
-## 📊 Projects
+##  Projects
 
 * ELT Pipeline using Python & SQL
 * Dashboard
