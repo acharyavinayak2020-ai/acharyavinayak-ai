@@ -1,5 +1,5 @@
 # acharyavinayak-ai
-# Hi, I'm Ram 
+# Hi, I'm Vinayak Acharya
 
  Aspiring Data Engineer
 
